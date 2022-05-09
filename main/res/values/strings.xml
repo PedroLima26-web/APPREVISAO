@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Revisao</string>
+    <string name="aa"> Digite os valores </string>
+    <string name="aaa"> 1º Número </string>
+    <string name="aaaa"> 2º Número </string>
+    <string name="ter"> Testar </string>
+</resources>
